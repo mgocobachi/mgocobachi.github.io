@@ -2,7 +2,7 @@ title: Miguel Gocobachi
 description: Web site for github
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
 
 gems:
   - jekyll-mentions
